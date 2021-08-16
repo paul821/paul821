@@ -6,6 +6,9 @@
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulkim2024@u.northwestern.edu)](paulkim2024@u.northwestern.edu)
   
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaul821&count_bg=%23683DC8&title_bg=%2389E5E7&icon=&icon_color=%23E9EE89&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+  
   Double majoring in industrial engineering and economics.
   
   Minoring in business institutions.
