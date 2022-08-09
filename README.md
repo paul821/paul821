@@ -11,15 +11,15 @@
   
   Double majoring in industrial engineering and economics.
   
-  Minoring in business institutions.
+  Minoring in Business Institutions and Psychology
   
-  Potential Kellogg Certificate; may pick up a few psych courses along the way.
+  Certificate in Kellogg Certificate Program for Undergraduates and Integrated Marketing Communications
 
   Interested in analysis, insights, helping others, and contributing to the community.
   
-  In order of mastery, knowledge of Java, Python, MATLAB, R, SQL, HTML, CSS, JS.
+  In order of mastery, knowledge of Java, Python, MATLAB, SQL, MS SQL, R, HTML, CSS, JS.
   
-  Also handles MS Office, Adobe Suite, Google Workspace, FCPX, Logic Pro
+  Also handles MS Office, Adobe Suite, Jira, Google Workspace, FCPX, Logic Pro
   
 	
 [![Paul's github stats](https://github-readme-stats.vercel.app/api?username=paul821)](https://github.com/paul821/github-readme-stats)
