@@ -17,11 +17,11 @@
 
   Interested in analysis, insights, helping others, and contributing to the community.
   
-  In order of mastery, knowledge of Java, Python, MATLAB, SQL, MS SQL, R, HTML, CSS, JS.
+  In order of mastery, knowledge of Python, R, SQL, Java, MATLAB, HTML, CSS, JS.
   
   Also handles MS Office, Adobe Suite, Jira, Google Workspace, FCPX, Logic Pro
   
-  NEWEST PROJECT: https://posit.cloud/content/5120782
+  
   
 	
 [![Paul's github stats](https://github-readme-stats.vercel.app/api?username=paul821)](https://github.com/paul821/github-readme-stats)
