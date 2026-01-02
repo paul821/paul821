@@ -17,9 +17,9 @@
 
   Interested in analysis, insights, helping others, and contributing to the community.
   
-  In order of mastery, knowledge of Python, R, SQL, Java, MATLAB, HTML, CSS, JS.
+  In order of mastery, knowledge of Python, R, SQL, Java, AMPL, MATLAB, HTML, CSS, JS.
   
-  Also handles MS Office, Adobe Suite, Jira, Google Workspace, FCPX, Logic Pro
+  Also handles Tableau, MS Office, Adobe Suite, Jira, Google Workspace, FCPX, Logic Pro
   
   
   
