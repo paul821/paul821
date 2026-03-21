@@ -7,17 +7,13 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulkim2024@u.northwestern.edu)](paulkim2024@u.northwestern.edu)
   
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaul821&count_bg=%23683DC8&title_bg=%2389E5E7&icon=&icon_color=%23E9EE89&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
-  
   Double majoring in industrial engineering and economics.
   
-  Minoring in Business Institutions and Psychology
+  Certificate in Kellogg Certificate Program for Undergraduates in Managerial Analytics.
   
-  Certificate in Kellogg Certificate Program for Undergraduates and Integrated Marketing Communications
-
   Interested in analysis, insights, helping others, and contributing to the community.
   
-  In order of mastery, knowledge of Python, R, SQL, Java, AMPL, MATLAB, HTML, CSS, JS.
+  In order of mastery, knowledge of Python, R, SQL, Java, AMPL, MATLAB, Stata, HTML, CSS, JS.
   
   Also handles Tableau, MS Office, Adobe Suite, Jira, Google Workspace, FCPX, Logic Pro
   
