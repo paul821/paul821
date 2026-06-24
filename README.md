@@ -7,9 +7,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulkim2024@u.northwestern.edu)](paulkim2024@u.northwestern.edu)
   
   
-  Double majoring in industrial engineering and economics.
-  
-  Certificate in Kellogg Certificate Program for Undergraduates in Managerial Analytics.
+  Double majoring in industrial engineering and economics. Certificate in Kellogg Certificate Program for Undergraduates in Managerial Analytics.
   
   Interested in analysis, insights, helping others, and contributing to the community.
   
